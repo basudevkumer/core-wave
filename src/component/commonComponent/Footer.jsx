@@ -79,6 +79,9 @@ const Footer = () => {
             </div>
           </div>
         </div>
+        <div className="pt-[14px]">
+            <p className=" text-center pt-[14px] border-t-2 border-[#BDBDBD] font-lato  font-medium text-[14px]/[22px] text-bodyText ">@2023 CoreWave. All copyrights reserved</p>
+        </div>
       </Container>
     </footer>
   );
